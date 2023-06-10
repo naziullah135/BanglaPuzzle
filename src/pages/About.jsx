@@ -1,10 +1,11 @@
 import React from 'react';
+import CompanyInfo from '../components/CompanyInfo';
 
 const About = () => {
     return (
-        <div>
-            This is about page.
-        </div>
+        <>
+           <CompanyInfo />
+        </>
     );
 };
 
