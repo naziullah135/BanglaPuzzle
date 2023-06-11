@@ -45,7 +45,7 @@ const Footer = () => {
       <div className="footer flex justify-between p-8 text-[#8c94b8]">
         <div className="lg:w-1/3">
           <img className="w-48" src={logo} alt="" />
-          <p className="text-base">
+          <p className=" ps-3 text-base">
             Desh Career is Career based newsletter in Bengali language. This
             newsletter has published weekly. This is published in every Saturday
             at 12.00 PM.{" "}
