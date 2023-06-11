@@ -3,7 +3,7 @@ import emailIcon from "../assets/mail.svg";
 
 const Hero = () => {
   return (
-    <div className="lg:px-14 m-12">
+    <div className="lg:px-14 mt-20 m-12">
       <h1 className="text-6xl font-bold font-sans">
         Get Smarter about your <br /> career
       </h1>
