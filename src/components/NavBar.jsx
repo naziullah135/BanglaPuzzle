@@ -6,7 +6,7 @@ const NavBar = () => {
   const location = useLocation();
 
   return (
-    <div className="navbar shadow-md px-20">
+    <div className="navbar shadow-md lg:px-20">
       <div className="flex-1 rounded-full">
         <Link to="/"><img className="w-48" src={logo} alt="logo" /></Link>
       </div>

@@ -3,7 +3,7 @@ import logo from "../assets/short-logo.png";
 import { Link } from "react-router-dom";
 const Footer = () => {
   return (
-    <footer className="bg-[#0f0d32] px-14">
+    <footer className="bg-[#0f0d32] lg:px-14">
       <div>
         <div className="flex gap-4 md:place-self-center pt-8 text-white justify-center">
         <a href="https://www.facebook.com/deshcareer" className="border-2 rounded-lg  p-2  hover:text-gray-400 hover:border-gray-400">
